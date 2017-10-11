@@ -1,0 +1,4 @@
+Streamripper.py
+Usage
+streamripper [url] [folder]
+will rip songs off whatever icecast mp3 url you have and dump them into [folder] assuming proper metadata
